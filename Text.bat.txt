@@ -1,1 +1,1 @@
-echo "Test this file 123" %date% %time%".
+echo "Test this file " %date% %time%".
